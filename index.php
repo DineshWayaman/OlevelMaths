@@ -341,6 +341,8 @@ include('queries/config.php');
     }); 
 
    </script>
+
+   <!-- Added Coment to check git -->
 </body>
 </html>
 
